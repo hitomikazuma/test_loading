@@ -44,7 +44,7 @@ const loading = () => {
         clearInterval(nowLoading);
       }
     }
-  }, 10);
+  }, 50);
 };
 
 export const common = () => {
